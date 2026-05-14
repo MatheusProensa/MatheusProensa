@@ -2,7 +2,7 @@
 
 🎓 Estudante de Sistemas de Informação - UFN  
 💻 Interesse em suporte técnico, front-end e desenvolvimento de software  
-🎨 Background em design gráfico  
+🎨 Formação em design gráfico  
 
 ## Tecnologias em aprendizado
 - HTML
