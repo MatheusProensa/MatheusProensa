@@ -12,7 +12,7 @@ Estou em constante evolução através de projetos práticos e aprendizado cont�
 - CSS
 - JavaScript
 - Angular
-- Git / GitHub
+- React 
 
 ## 🎯 Objetivo
 
