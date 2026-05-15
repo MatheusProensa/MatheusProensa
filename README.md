@@ -1,12 +1,10 @@
 # 🧑‍💻 Sobre mim
 
-Sou acadêmico de Sistemas de Informação na Universidade Franciscana (UFN), atualmente no 4º semestre.
+Sou acadêmico de Sistemas de Informação na UFN, atualmente no 5º semestre.
 
-Tenho foco em desenvolvimento Front-end, com interesse em criar interfaces modernas, responsivas e bem estruturadas. Venho evoluindo minhas habilidades através de projetos práticos e estudos contínuos na área web.
+Tenho foco em desenvolvimento Front-end, com estudos e prática em HTML, CSS, JavaScript e Angular. Gosto de construir interfaces web funcionais, organizadas e com boa experiência de usuário.
 
-Minha base em programação vem sendo construída ao longo da graduação, com foco em lógica, desenvolvimento web e organização de projetos.
-
-Trago comigo disciplina e responsabilidade adquiridas no meu período no Exército Brasileiro, aplicando isso na organização, foco e resolução de problemas no dia a dia.
+Estou em constante evolução através de projetos práticos e aprendizado contínuo na área de desenvolvimento web.
 
 ## 💻 Tecnologias
 
@@ -18,11 +16,4 @@ Trago comigo disciplina e responsabilidade adquiridas no meu período no Exérci
 
 ## 🎯 Objetivo
 
-Evoluir como desenvolvedor Front-end, criando aplicações web funcionais, organizadas e com boa experiência de usuário.
-
-## 🚀 Interesses
-
-- Desenvolvimento Front-end
-- Interfaces modernas e responsivas
-- Projetos práticos para portfólio
-- Aprendizado contínuo em tecnologias web
+Evoluir como desenvolvedor Front-end, criando aplicações web bem estruturadas e cada vez mais completas.
