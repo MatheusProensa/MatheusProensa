@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre mim
 
-Sou acadêmico de Sistemas de Informação na Universidade Franciscana (UFN), atualmente no 5º semestre.
+Sou acadêmico de Sistemas de Informação na Universidade Franciscana (UFN), atualmente no 4º semestre.
 
 Tenho foco em desenvolvimento Front-end, com interesse em construir interfaces modernas e bem estruturadas. Venho expandindo meus conhecimentos para Back-end, com estudos em APIs REST e Node.js, buscando evolução para atuação Full Stack.
 
