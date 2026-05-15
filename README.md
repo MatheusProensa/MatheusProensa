@@ -1,6 +1,6 @@
 # 🧑‍💻 Sobre mim
 
-Sou acadêmico de Sistemas de Informação na UFN, atualmente no 5º semestre.
+Sou acadêmico de Sistemas de Informação na UFN, atualmente no 4º semestre.
 
 Tenho foco em desenvolvimento Front-end, com estudos e prática em HTML, CSS, JavaScript e Angular. Gosto de construir interfaces web funcionais, organizadas e com boa experiência de usuário.
 
