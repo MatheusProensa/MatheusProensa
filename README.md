@@ -19,7 +19,7 @@ Estudante de Sistemas de Informação (UFN) com foco em front-end, UI/UX e exper
 
 ## Sobre
 
-Sou estudante de **Sistemas de Informação** e **designer gráfico** — uma combinação que define o jeito como construo software. Para mim, um projeto não termina quando funciona: ele precisa ter **hierarquia visual, organização, responsividade e uma experiência limpa e profissional**.
+Sou estudante de **Sistemas de Informação** e **Designer Gráfico** — uma combinação que define o jeito como construo software. Para mim, um projeto não termina quando funciona: ele precisa ter **hierarquia visual, organização, responsividade e uma experiência limpa e profissional**.
 
 Meu background em design influencia cada decisão de interface. Busco que meus projetos tenham **aparência real de produto de mercado**, e não de trabalho acadêmico ou template genérico.
 
