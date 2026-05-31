@@ -69,19 +69,6 @@ Site institucional completo (React + TypeScript + Vite) para uma escola de educa
 
 [**Ver repositório →**](https://github.com/MatheusProensa/front-end-escola-cda)
 
----
-
-## GitHub
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=MatheusProensa&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=555&bg_color=ffffff)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusProensa&layout=compact&hide_border=true&title_color=0A66C2&text_color=555&bg_color=ffffff)
-
-</div>
-
----
-
 <div align="center">
 <sub>Construindo interfaces modernas, um projeto de cada vez.</sub>
 </div>
